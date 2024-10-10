@@ -3,5 +3,16 @@
   "common": {
     "greeting": "Happy",
     "description": "Each day become better version of yourself, try adding value"
+  }, "userModal": {
+    "title": "User Details",
+    "email": "Email:",
+    "uid": "UID:",
+    "logoutButton": "Logout",
+    "logoutSuccess": "User logged out successfully.",
+    "logoutFailed": "Logout failed, please try again.",
+    "authError": {
+      "title": "Error",
+      "message": "User authentication failed. Please log in."
+    }
   }
 }
