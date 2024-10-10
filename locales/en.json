@@ -1,0 +1,16 @@
+{
+  "common": {
+    "welcome_message": "Welcome to our app!",
+    "description": "This is a multilingual app.",
+    "greeting": "Happy valentine day",
+    "greetingx": "Happy valentine day"
+  },
+  "home": {
+    "title": "Home",
+    "intro": "Welcome to the home page."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "We are a company dedicated to..."
+  }
+}
