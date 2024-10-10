@@ -3,5 +3,16 @@
   "common": {
     "greeting": "Heureux",
     "description": "Devenez chaque jour une meilleure version de vous-même, essayez d'ajouter de la valeur"
+  },"userModal": {
+    "title": "Détails de l'utilisateur",
+    "email": "E-mail :",
+    "uid": "UID :",
+    "logoutButton": "Se déconnecter",
+    "logoutSuccess": "Déconnexion réussie.",
+    "logoutFailed": "Échec de la déconnexion, veuillez réessayer.",
+    "authError": {
+      "title": "Erreur",
+      "message": "L'authentification a échoué. Veuillez vous connecter."
+    }
   }
 }
