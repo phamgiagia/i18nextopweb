@@ -1,16 +1,6 @@
 {
+  "languageCode": "fr",
   "common": {
-    "welcome_message": "Bienvenue dans notre application !",
-    "description": "Ceci est une application multilingue.",
-    "greeting": "Bonne Saint Valentin",
-    "greetingx": "Bonne Saint Valentin"
-  },
-  "home": {
-    "title": "Accueil",
-    "intro": "Bienvenue sur la page d'accueil."
-  },
-  "about": {
-    "title": "À propos de nous",
-    "content": "Nous sommes une entreprise dédiée à..."
+    "greeting": "Heureux"
   }
 }

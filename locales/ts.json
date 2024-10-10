@@ -1,0 +1,6 @@
+{
+  "languageCode": "ts",
+  "common": {
+    "greeting": "Tsaka"
+  }
+}
