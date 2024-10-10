@@ -1,6 +1,7 @@
 {
   "languageCode": "ms",
   "common": {
-    "greeting": "gembira"
+    "greeting": "gembira",
+    "description": "Setiap hari menjadi versi diri anda yang lebih baik, cuba tambah nilai"
   }
 }

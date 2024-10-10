@@ -1,6 +1,7 @@
 {
   "languageCode": "uz",
   "common": {
-    "greeting": "Baxtli"
+    "greeting": "Baxtli",
+    "description": "Har kuni o'zingizning yaxshiroq versiyangiz bo'ling, qiymat qo'shishga harakat qiling"
   }
 }

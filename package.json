@@ -12,7 +12,10 @@
     "vite": "^5.4.8"
   },
   "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
     "i18next": "^23.15.2",
-    "i18next-browser-languagedetector": "^8.0.0"
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^2.6.2"
   }
 }

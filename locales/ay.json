@@ -1,6 +1,7 @@
 {
   "languageCode": "ay",
   "common": {
-    "greeting": "Kusisita"
+    "greeting": "Kusisita",
+    "description": "Sapa uruw juma pachpat juk’amp suma versión ukar tukuñama, valor yapxatañ yant’añama"
   }
 }

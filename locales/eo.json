@@ -1,6 +1,7 @@
 {
   "languageCode": "eo",
   "common": {
-    "greeting": "Feliĉa"
+    "greeting": "Feliĉa",
+    "description": "Ĉiutage fariĝu pli bona versio de vi mem, provu aldoni valoron"
   }
 }

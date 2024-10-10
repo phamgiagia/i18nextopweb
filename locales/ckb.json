@@ -1,6 +1,7 @@
 {
   "languageCode": "ckb",
   "common": {
-    "greeting": "خۆشحاڵ"
+    "greeting": "خۆشحاڵ",
+    "description": "هەر ڕۆژێک ببە بە وەشانی باشتر لە خۆت، هەوڵبدە بەها زیاد بکەیت"
   }
 }

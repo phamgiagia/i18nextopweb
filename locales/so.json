@@ -1,6 +1,7 @@
 {
   "languageCode": "so",
   "common": {
-    "greeting": "Farxad leh"
+    "greeting": "Farxad leh",
+    "description": "Maalin kasta noqo naftaada nooca ugu fiican, isku day inaad qiimeyso"
   }
 }

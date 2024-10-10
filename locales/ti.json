@@ -1,6 +1,7 @@
 {
   "languageCode": "ti",
   "common": {
-    "greeting": "ሕጉስ"
+    "greeting": "ሕጉስ",
+    "description": "ነፍሲ ወከፍ መዓልቲ ዝሓሸ ስሪት ናይ ገዛእ ርእስኻ ኩን፣ ዋጋ ክትውስኽ ፈትን።"
   }
 }

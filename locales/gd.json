@@ -1,6 +1,7 @@
 {
   "languageCode": "gd",
   "common": {
-    "greeting": "Toilichte"
+    "greeting": "Toilichte",
+    "description": "Gach latha bi nad dhreach nas fheàrr dhut fhèin, feuch ri luach a chur ris"
   }
 }

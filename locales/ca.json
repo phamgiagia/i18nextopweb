@@ -1,6 +1,7 @@
 {
   "languageCode": "ca",
   "common": {
-    "greeting": "Feliç"
+    "greeting": "Feliç",
+    "description": "Cada dia convertiu-vos en una millor versió de vosaltres mateixos, proveu d'afegir valor"
   }
 }

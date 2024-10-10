@@ -1,6 +1,7 @@
 {
   "languageCode": "hu",
   "common": {
-    "greeting": "Boldog"
+    "greeting": "Boldog",
+    "description": "Minden nap válj önmagad jobb verziójává, próbálj hozzáadni értéket"
   }
 }

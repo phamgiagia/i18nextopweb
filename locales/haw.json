@@ -1,6 +1,7 @@
 {
   "languageCode": "haw",
   "common": {
-    "greeting": "Hauʻoli"
+    "greeting": "Hauʻoli",
+    "description": "E ho'āʻo e hoʻohui i ka waiwai i kēlā me kēia lā"
   }
 }

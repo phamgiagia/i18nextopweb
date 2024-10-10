@@ -1,6 +1,7 @@
 {
   "languageCode": "sv",
   "common": {
-    "greeting": "Glad"
+    "greeting": "Glad",
+    "description": "Varje dag blir en bättre version av dig själv, försök att lägga till mervärde"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "ht",
   "common": {
-    "greeting": "Kè kontan"
+    "greeting": "Kè kontan",
+    "description": "Chak jou vin pi bon vèsyon tèt ou, eseye ajoute valè"
   }
 }

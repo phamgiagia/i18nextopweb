@@ -1,6 +1,7 @@
 {
   "languageCode": "he",
   "common": {
-    "greeting": "שַׂמֵחַ"
+    "greeting": "שַׂמֵחַ",
+    "description": "כל יום הפוך לגרסה טובה יותר של עצמך, נסה להוסיף ערך"
   }
 }

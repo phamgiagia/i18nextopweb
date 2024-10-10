@@ -1,6 +1,7 @@
 {
   "languageCode": "nl",
   "common": {
-    "greeting": "Vrolijk"
+    "greeting": "Vrolijk",
+    "description": "Word elke dag een betere versie van jezelf, probeer waarde toe te voegen"
   }
 }

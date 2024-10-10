@@ -1,6 +1,7 @@
 {
   "languageCode": "hr",
   "common": {
-    "greeting": "Sretan"
+    "greeting": "Sretan",
+    "description": "Svaki dan postanite bolja verzija sebe, pokušajte dodati vrijednost"
   }
 }

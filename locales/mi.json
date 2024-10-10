@@ -1,6 +1,7 @@
 {
   "languageCode": "mi",
   "common": {
-    "greeting": "Harikoa"
+    "greeting": "Harikoa",
+    "description": "Ia ra ka pai ake te ahua o koe, ngana ki te taapiri uara"
   }
 }

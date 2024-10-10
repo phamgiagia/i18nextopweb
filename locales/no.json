@@ -1,6 +1,7 @@
 {
   "languageCode": "no",
   "common": {
-    "greeting": "Lykkelig"
+    "greeting": "Lykkelig",
+    "description": "Hver dag bli en bedre versjon av deg selv, prøv å legge til verdi"
   }
 }

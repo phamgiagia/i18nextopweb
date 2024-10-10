@@ -1,6 +1,7 @@
 {
   "languageCode": "sm",
   "common": {
-    "greeting": "Fiafia"
+    "greeting": "Fiafia",
+    "description": "O aso taʻitasi ia avea ma faʻamatalaga sili atu o oe lava, taumafai e faʻaopoopo le tau"
   }
 }

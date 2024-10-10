@@ -1,6 +1,7 @@
 {
   "languageCode": "tl",
   "common": {
-    "greeting": "Masaya"
+    "greeting": "Masaya",
+    "description": "Bawat araw ay maging mas magandang bersyon ng iyong sarili, subukang magdagdag ng halaga"
   }
 }

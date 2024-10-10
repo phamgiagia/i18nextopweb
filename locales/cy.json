@@ -1,6 +1,7 @@
 {
   "languageCode": "cy",
   "common": {
-    "greeting": "Hapus"
+    "greeting": "Hapus",
+    "description": "Bob dydd dewch yn fersiwn well ohonoch chi'ch hun, ceisiwch ychwanegu gwerth"
   }
 }

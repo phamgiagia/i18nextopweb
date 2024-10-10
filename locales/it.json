@@ -1,6 +1,7 @@
 {
   "languageCode": "it",
   "common": {
-    "greeting": "Contento"
+    "greeting": "Contento",
+    "description": "Ogni giorno diventa una versione migliore di te stesso, prova ad aggiungere valore"
   }
 }

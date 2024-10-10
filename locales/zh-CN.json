@@ -1,6 +1,7 @@
 {
   "languageCode": "zh-CN",
   "common": {
-    "greeting": "快乐的"
+    "greeting": "快乐的",
+    "description": "每天都成为更好的自己，尝试增加价值"
   }
 }

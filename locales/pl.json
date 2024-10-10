@@ -1,6 +1,7 @@
 {
   "languageCode": "pl",
   "common": {
-    "greeting": "Szczęśliwy"
+    "greeting": "Szczęśliwy",
+    "description": "Każdego dnia stań się lepszą wersją siebie, staraj się dodawać wartość"
   }
 }

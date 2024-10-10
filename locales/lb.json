@@ -1,6 +1,7 @@
 {
   "languageCode": "lb",
   "common": {
-    "greeting": "Glécklech"
+    "greeting": "Glécklech",
+    "description": "All Dag ginn eng besser Versioun vun Iech selwer, probéiert Wäert ze addéieren"
   }
 }

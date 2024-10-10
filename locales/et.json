@@ -1,6 +1,7 @@
 {
   "languageCode": "et",
   "common": {
-    "greeting": "Õnnelik"
+    "greeting": "Õnnelik",
+    "description": "Muutke iga päevaga paremaks versiooniks endast, proovige väärtust lisada"
   }
 }

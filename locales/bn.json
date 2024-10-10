@@ -1,6 +1,7 @@
 {
   "languageCode": "bn",
   "common": {
-    "greeting": "খুশি"
+    "greeting": "খুশি",
+    "description": "প্রতিটি দিন নিজের ভাল সংস্করণ হয়ে উঠুন, মান যোগ করার চেষ্টা করুন"
   }
 }

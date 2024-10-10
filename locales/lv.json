@@ -1,6 +1,7 @@
 {
   "languageCode": "lv",
   "common": {
-    "greeting": "Priecīgs"
+    "greeting": "Priecīgs",
+    "description": "Katru dienu kļūstiet par labāku sevis versiju, mēģiniet pievienot vērtību"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "ko",
   "common": {
-    "greeting": "행복하다"
+    "greeting": "행복하다",
+    "description": "매일 더 나은 자신이 되세요. 가치를 더해보세요."
   }
 }

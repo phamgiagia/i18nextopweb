@@ -1,6 +1,7 @@
 {
   "languageCode": "jv",
   "common": {
-    "greeting": "seneng"
+    "greeting": "seneng",
+    "description": "Saben dina dadi versi sampeyan sing luwih apik, coba tambahake nilai"
   }
 }

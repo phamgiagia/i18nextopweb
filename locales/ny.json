@@ -1,6 +1,7 @@
 {
   "languageCode": "ny",
   "common": {
-    "greeting": "Wodala"
+    "greeting": "Wodala",
+    "description": "Tsiku lililonse khalani odziyimira pawokha, yesani kuwonjezera phindu"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "rw",
   "common": {
-    "greeting": "Byishimo"
+    "greeting": "Byishimo",
+    "description": "Buri munsi ube verisiyo nziza yawe wenyine, gerageza wongere agaciro"
   }
 }

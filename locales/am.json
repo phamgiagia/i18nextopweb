@@ -1,6 +1,7 @@
 {
   "languageCode": "am",
   "common": {
-    "greeting": "ደስተኛ"
+    "greeting": "ደስተኛ",
+    "description": "እያንዳንዱ ቀን የእራስዎ የተሻለ ስሪት ይሁኑ፣ እሴት ለመጨመር ይሞክሩ"
   }
 }

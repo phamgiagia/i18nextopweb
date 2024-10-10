@@ -1,6 +1,7 @@
 {
   "languageCode": "ja",
   "common": {
-    "greeting": "ハッピー"
+    "greeting": "ハッピー",
+    "description": "毎日、より良い自分になり、価値を加えてみましょう"
   }
 }

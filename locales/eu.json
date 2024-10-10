@@ -1,6 +1,7 @@
 {
   "languageCode": "eu",
   "common": {
-    "greeting": "Pozik"
+    "greeting": "Pozik",
+    "description": "Egunero bihurtu zeure buruaren bertsio hobea, saiatu balioa gehitzen"
   }
 }

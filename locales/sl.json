@@ -1,6 +1,7 @@
 {
   "languageCode": "sl",
   "common": {
-    "greeting": "srečno"
+    "greeting": "srečno",
+    "description": "Vsak dan postanite boljša različica sebe, poskusite dodati vrednost"
   }
 }

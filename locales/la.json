@@ -1,6 +1,7 @@
 {
   "languageCode": "la",
   "common": {
-    "greeting": "felix"
+    "greeting": "felix",
+    "description": "Cotidie melius versionem te ipsum fieri, experiri valorem addendo"
   }
 }

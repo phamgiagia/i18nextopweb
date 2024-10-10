@@ -1,6 +1,7 @@
 {
   "languageCode": "vi",
   "common": {
-    "greeting": "Vui mừng"
+    "greeting": "Vui mừng",
+    "description": "Mỗi ngày hãy trở thành phiên bản tốt hơn của chính mình, hãy cố gắng tạo thêm giá trị"
   }
 }

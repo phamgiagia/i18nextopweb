@@ -1,6 +1,7 @@
 {
   "languageCode": "af",
   "common": {
-    "greeting": "Gelukkig"
+    "greeting": "Gelukkig",
+    "description": "Elke dag word 'n beter weergawe van jouself, probeer waarde toevoeg"
   }
 }

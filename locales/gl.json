@@ -1,6 +1,7 @@
 {
   "languageCode": "gl",
   "common": {
-    "greeting": "Feliz"
+    "greeting": "Feliz",
+    "description": "Cada día convértete nunha versión mellor de ti mesmo, tenta engadir valor"
   }
 }

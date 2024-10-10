@@ -1,6 +1,7 @@
 {
   "languageCode": "hi",
   "common": {
-    "greeting": "खुश"
+    "greeting": "खुश",
+    "description": "प्रत्येक दिन अपने आप को बेहतर बनाएं, मूल्य जोड़ने का प्रयास करें"
   }
 }

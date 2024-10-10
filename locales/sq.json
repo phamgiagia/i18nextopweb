@@ -1,6 +1,7 @@
 {
   "languageCode": "sq",
   "common": {
-    "greeting": "Gëzuar"
+    "greeting": "Gëzuar",
+    "description": "Çdo ditë bëhuni version më i mirë i vetes, përpiquni të shtoni vlerë"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "fr",
   "common": {
-    "greeting": "Heureux"
+    "greeting": "Heureux",
+    "description": "Devenez chaque jour une meilleure version de vous-même, essayez d'ajouter de la valeur"
   }
 }

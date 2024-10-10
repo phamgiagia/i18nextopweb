@@ -1,6 +1,7 @@
 {
   "languageCode": "sn",
   "common": {
-    "greeting": "Happy"
+    "greeting": "Happy",
+    "description": "Zuva rega rega rive nani shanduro yako, edza kuwedzera kukosha"
   }
 }

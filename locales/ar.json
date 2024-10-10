@@ -1,6 +1,7 @@
 {
   "languageCode": "ar",
   "common": {
-    "greeting": "سعيد"
+    "greeting": "سعيد",
+    "description": "كل يوم كن نسخة أفضل من نفسك، حاول إضافة قيمة"
   }
 }

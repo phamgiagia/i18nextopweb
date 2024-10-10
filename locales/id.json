@@ -1,6 +1,7 @@
 {
   "languageCode": "id",
   "common": {
-    "greeting": "Senang"
+    "greeting": "Senang",
+    "description": "Setiap hari menjadi versi dirimu yang lebih baik, cobalah menambahkan nilai"
   }
 }

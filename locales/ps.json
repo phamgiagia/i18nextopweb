@@ -1,6 +1,7 @@
 {
   "languageCode": "ps",
   "common": {
-    "greeting": "خوشحاله"
+    "greeting": "خوشحاله",
+    "description": "هره ورځ د خپل ځان غوره نسخه شئ، د ارزښت زیاتولو هڅه وکړئ"
   }
 }

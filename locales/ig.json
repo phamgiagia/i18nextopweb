@@ -1,6 +1,7 @@
 {
   "languageCode": "ig",
   "common": {
-    "greeting": "Obi ụtọ"
+    "greeting": "Obi ụtọ",
+    "description": "Ụbọchị ọ bụla ga-abụ ụdị nke onwe gị ka mma, gbalịa ịgbakwunye uru"
   }
 }

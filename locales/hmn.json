@@ -1,6 +1,7 @@
 {
   "languageCode": "hmn",
   "common": {
-    "greeting": "Zoo siab"
+    "greeting": "Zoo siab",
+    "description": "Txhua hnub dhau los ua qhov zoo ntawm koj tus kheej, sim ntxiv tus nqi"
   }
 }

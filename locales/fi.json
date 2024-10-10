@@ -1,6 +1,7 @@
 {
   "languageCode": "fi",
   "common": {
-    "greeting": "Onnellinen"
+    "greeting": "Onnellinen",
+    "description": "Tule joka päivä paremmaksi versioksi itsestäsi, yritä lisätä arvoa"
   }
 }

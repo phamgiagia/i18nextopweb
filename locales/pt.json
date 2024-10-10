@@ -1,6 +1,7 @@
 {
   "languageCode": "pt",
   "common": {
-    "greeting": "Feliz"
+    "greeting": "Feliz",
+    "description": "A cada dia torne-se uma versão melhor de si mesmo, tente agregar valor"
   }
 }

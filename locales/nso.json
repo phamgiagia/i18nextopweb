@@ -1,6 +1,7 @@
 {
   "languageCode": "nso",
   "common": {
-    "greeting": "Thabile"
+    "greeting": "Thabile",
+    "description": "Letšatši le lengwe le le lengwe e ba phetolelo e kaone ya gago, leka go oketša boleng"
   }
 }

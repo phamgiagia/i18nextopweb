@@ -1,6 +1,7 @@
 {
   "languageCode": "mg",
   "common": {
-    "greeting": "SAMBATRA"
+    "greeting": "SAMBATRA",
+    "description": "Isan'andro dia lasa kinova tsara kokoa momba ny tenanao ianao, manandrama manampy lanja"
   }
 }

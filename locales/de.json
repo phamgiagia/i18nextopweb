@@ -1,6 +1,7 @@
 {
   "languageCode": "de",
   "common": {
-    "greeting": "Glücklich"
+    "greeting": "Glücklich",
+    "description": "Werden Sie jeden Tag zu einer besseren Version Ihrer selbst und versuchen Sie, Mehrwert zu schaffen"
   }
 }

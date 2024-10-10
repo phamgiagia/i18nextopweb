@@ -1,6 +1,7 @@
 {
   "languageCode": "ro",
   "common": {
-    "greeting": "Fericit"
+    "greeting": "Fericit",
+    "description": "În fiecare zi, deveniți o versiune mai bună a voastră, încercați să adăugați valoare"
   }
 }

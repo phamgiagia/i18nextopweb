@@ -1,6 +1,7 @@
 {
   "languageCode": "sw",
   "common": {
-    "greeting": "Furaha"
+    "greeting": "Furaha",
+    "description": "Kila siku kuwa toleo bora kwako, jaribu kuongeza thamani"
   }
 }

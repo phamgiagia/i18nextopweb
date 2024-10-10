@@ -1,6 +1,7 @@
 {
   "languageCode": "tr",
   "common": {
-    "greeting": "Mutlu"
+    "greeting": "Mutlu",
+    "description": "Her gün kendinizin daha iyi bir versiyonu olun, değer katmaya çalışın"
   }
 }

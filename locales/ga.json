@@ -1,6 +1,7 @@
 {
   "languageCode": "ga",
   "common": {
-    "greeting": "Sásta"
+    "greeting": "Sásta",
+    "description": "Déan leagan níos fearr duit féin gach lá, bain triail as luach a chur leis"
   }
 }

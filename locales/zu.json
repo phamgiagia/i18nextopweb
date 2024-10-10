@@ -1,6 +1,7 @@
 {
   "languageCode": "zu",
   "common": {
-    "greeting": "Jabulile"
+    "greeting": "Jabulile",
+    "description": "Usuku ngalunye yiba inguqulo yakho engcono, zama ukwengeza inani"
   }
 }

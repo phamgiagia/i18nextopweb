@@ -1,6 +1,7 @@
 {
   "languageCode": "bs",
   "common": {
-    "greeting": "Happy"
+    "greeting": "Happy",
+    "description": "Svakim danom postanite bolja verzija sebe, pokušajte dodati vrijednost"
   }
 }

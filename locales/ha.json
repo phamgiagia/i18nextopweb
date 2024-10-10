@@ -1,6 +1,7 @@
 {
   "languageCode": "ha",
   "common": {
-    "greeting": "Farin ciki"
+    "greeting": "Farin ciki",
+    "description": "Kowace rana ta zama mafi kyawun sigar kanku, gwada ƙara ƙima"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "az",
   "common": {
-    "greeting": "Xoşbəxt"
+    "greeting": "Xoşbəxt",
+    "description": "Hər gün özünüzü daha yaxşı bir versiyaya çevirin, dəyər əlavə etməyə çalışın"
   }
 }

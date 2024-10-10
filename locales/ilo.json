@@ -1,6 +1,7 @@
 {
   "languageCode": "ilo",
   "common": {
-    "greeting": "Naragsak"
+    "greeting": "Naragsak",
+    "description": "Tunggal aldaw agbalinka a nasaysayaat a bersion ti bagim, padasem ti mangnayon iti pateg"
   }
 }

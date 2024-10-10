@@ -1,6 +1,7 @@
 {
   "languageCode": "is",
   "common": {
-    "greeting": "Sælir"
+    "greeting": "Sælir",
+    "description": "Hver dagur verður betri útgáfa af sjálfum þér, reyndu að auka virði"
   }
 }

@@ -1,6 +1,7 @@
 {
   "languageCode": "ts",
   "common": {
-    "greeting": "Tsaka"
+    "greeting": "Tsaka",
+    "description": "Siku rin’wana ni rin’wana u va version yo antswa ya wena n’wini, ringeta ku engetela nkoka"
   }
 }

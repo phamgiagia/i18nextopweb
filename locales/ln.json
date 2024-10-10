@@ -1,6 +1,7 @@
 {
   "languageCode": "ln",
   "common": {
-    "greeting": "Esengo"
+    "greeting": "Esengo",
+    "description": "Mikolo na mokolo koma version ya malamu koleka na yo moko, meka kobakisa valeur"
   }
 }

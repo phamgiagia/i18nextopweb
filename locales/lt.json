@@ -1,6 +1,7 @@
 {
   "languageCode": "lt",
   "common": {
-    "greeting": "laimingas"
+    "greeting": "laimingas",
+    "description": "Kiekvieną dieną tapkite geresne savo versija, pabandykite pridėti vertės"
   }
 }

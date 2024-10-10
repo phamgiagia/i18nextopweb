@@ -1,6 +1,7 @@
 {
   "languageCode": "sk",
   "common": {
-    "greeting": "Šťastný"
+    "greeting": "Šťastný",
+    "description": "Staňte sa každý deň lepšou verziou seba, skúste pridať hodnotu"
   }
 }
